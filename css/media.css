@@ -1,0 +1,608 @@
+@media (max-width: 575.98px) {
+    
+body{
+    padding-top: 89px;
+}
+
+
+/* header */
+header{
+    padding: 15px 0;
+}
+.menu ul li a{
+    font-size: 16px;
+    padding: 13px 5px 0 !important;
+    text-align: right;
+}
+/* header */
+
+/* slider */
+.slider{
+    padding-top: 15px;
+    padding-bottom: 60px;
+}
+.s_text{
+    margin-top: 0;
+}
+.s_text p{
+    margin-top: 10px;
+    margin-left: 0;
+    margin-bottom: 0 !important;
+}
+.s_text h1{
+    margin-bottom: 15px !important;
+    font-size: 30px;
+}
+.c_ind{
+    bottom: -58px;
+}
+.c_ind [data-bs-target]{
+    margin-right: 15px;
+    width: 8px;
+    height: 8px;
+}
+/* slider */
+
+
+/* feature start */
+.c_padd{
+    padding-bottom: 60px;
+}
+.s_feature{
+    margin-top: 24px;
+}
+.s_img{
+    width: 240px;
+    height: 190px;
+}
+/* feature end */
+
+
+/* Sales start */
+.c_h1{
+    font-size: 25px;
+}
+.c_item{
+    margin: 30px 0 0;
+    padding: 10px 10px 15px;
+}
+.c_h2{
+    font-size: 20px;
+}
+ul li span{
+    font-weight: 400;
+}
+.list-inline-item:not(:last-child){
+    margin-right: 0;
+}
+/* Sales end */
+
+
+/*about start*/
+.a_image {
+    margin-bottom: 36px;
+    padding: 0;
+}
+.a_content {
+    text-align: center;
+}
+.a_h1{
+    font-size: 24px;
+}
+.a_p1 {
+    margin: 26px 0;
+    line-height: 24px;
+}
+   /*about end*/
+
+
+/*testimony start*/
+.q_icon {
+    top: 22px;
+    left: 18px;
+}
+.q_icon i {
+    font-size: 30px;
+}
+.t_content {
+    padding: 0;
+}
+.tes_content {
+     padding: 24px 5px 28px;
+        text-align: center;
+}
+.tesc_h3 {
+    margin: 10px 0;
+}
+.tesc_p1 {
+    margin: 20px 0 0;
+}
+/* testimony end */
+
+
+ /*contact start*/
+ .cfin_1 input {
+    width: 47%;
+}
+.cfin_1 input:first-child {
+    margin-right: 10px;
+}
+.c_form {
+    margin-top: 50px;
+}
+.c_form input {
+    padding: 10px 12px;
+}
+.c_formh1{
+    padding: 0 6px;
+    top: -67px;
+    font-size: 26px;
+}
+.cfin_3 {
+    padding: 30px 12px !IMPORTANT;
+}
+.form_btn {
+    margin: 36px 0;
+}
+/* contact end */    
+
+
+/* footer top start */
+.footer_top{
+    padding: 55px 0 20px;
+    text-align: center;
+}
+.ft_details{
+    margin-bottom: 35px;
+    padding-right: 0;
+}
+.ft_links{
+    margin-bottom: 35px;
+}
+/* footer top start */
+}  
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+body{
+    padding-top: 109px;
+}
+
+
+ /* header */
+header{
+    padding: 20px 0;
+}
+.menu ul li a{
+    padding: 15px 5px 0 !important;
+    font-size: 20px;
+    text-align: right;
+}
+/* header */
+
+
+/* slider  */
+.slider{
+    padding-top: 25px;
+    padding-bottom: 60px;
+}
+.s_text{
+    margin-top: 0;
+}
+.s_text p{
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0 !important;
+    font-size: 18px;
+}
+.s_text h1{
+    margin-bottom: 15px !important;
+    font-size: 40px;
+}
+.c_ind{
+    bottom: -60px;
+}
+.c_ind [data-bs-target]{
+    margin-right: 15px;
+    width: 8px;
+    height: 8px;
+}
+/* slider */
+
+
+/* feature start */
+.c_padd{
+    padding-bottom: 60px;
+}
+.s_feature{
+    margin-top: 24px;
+}
+/* feature end */
+
+
+/* Sales start */
+.c_h1{
+    font-size: 25px;
+}
+.c_item{
+    margin: 30px 60px 0;
+    padding: 20px 15px 25px;
+}
+/* Sales end */
+
+
+/*about start*/
+.a_image {
+    margin-bottom: 36px;
+    padding: 0 40px;
+}
+.a_content {
+    text-align: center;
+}
+.a_h1{
+        font-size: 26px;
+}
+.a_p1 {
+    margin: 26px 24px;
+    line-height: 24px;
+ }
+/* about end */
+
+
+/*testimony start*/
+ .q_icon {
+    top: 34px;
+    left: 24px;
+}
+.q_icon i {
+    font-size: 34px;
+}
+.t_content {
+    padding: 50px 40px;
+}
+.tes_content {
+    padding: 30px 0 0;
+    text-align: center;
+}
+.tesc_h3 {
+    margin: 12px 0;
+}
+.tesc_p1 {
+    margin: 30px 10px 0;
+ }
+/* testimony end */
+
+
+/*contact start*/
+.cfin_1 input {
+    width: 45%;
+}
+.cfin_1 input:first-child {
+    margin-right: 38px;
+}
+.c_form {
+    margin-top: 60px;
+}
+.c_formh1{
+    top: -78px;
+}
+.cfin_3 {
+    padding: 36px 15px !important;
+}
+.form_btn {
+    margin: 40px 0;
+}
+/* contact end */ 
+
+
+/* footer top start */
+.footer_top{
+    text-align: center;
+}
+.ft_details{
+    padding-right: 0;
+    margin-bottom: 35px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+/* footer top start */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/* header */
+header{
+    padding: 24px 0;
+}
+.menu ul li a{
+    padding: 15px 5px 0 !important;
+    text-align: right;
+}
+/* header */
+
+
+/* slider  */
+.slider{
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.s_text{
+    margin-top: 20px;
+}
+.s_text p{
+    margin-left: 0;
+    margin-bottom: 10px !important;
+    font-size: 18px;
+}
+.s_text h1{
+    margin-bottom: 30px !important;
+    font-size: 40px;
+}
+.c_ind{
+    bottom: -65px;
+}
+.c_ind [data-bs-target]{
+    margin-right: 15px;
+    width: 8px;
+    height: 8px;
+}
+/* slider */
+
+
+/* feature start */
+.c_padd{
+    padding-bottom: 80px;
+}
+.s_feature{
+    margin-top: 24px;
+}
+/* feature end */
+
+
+/* Sales start */
+.c_item{
+    margin: 40px 100px 0;
+}
+/* Sales end */
+
+
+/*about start*/
+.a_image {
+    margin-bottom: 40px;
+    padding: 0 85px;
+}
+.a_content {
+    text-align: center;
+}
+.a_h1{
+    font-size: 26px;
+}
+.a_p1 {
+    padding: 0 50px;
+}
+/* about end */
+
+
+/*testimony start*/
+.q_icon i {
+    font-size: 30px;
+}
+.t_content {
+    padding: 30px 20px;
+}
+.tesc_h2 {
+    font-size: 17px;
+}
+.tesc_h3 {
+    margin: 10px 0;
+    font-size: 17px;
+}
+.tesc_h4 {
+    font-size: 17px;
+}
+.tesc_p1 {
+    margin-top: 16px;
+    font-size: 15px;
+    line-height: 22px;
+}
+/* testimony end */
+
+/*contact start*/
+.c_form {
+    margin-top: 70px;
+}
+.c_formh1{
+    top: -90px;
+}
+ .cfin_3 {
+    padding: 40px 15px !IMPORTANT;
+}
+/* contact end */
+
+/* footer top */
+.footer_top{
+    text-align: center;
+}
+.ft_details{
+    padding-right: 0;
+    margin-bottom: 35px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+/* footer top end */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/* header */
+header{
+    padding: 24px 0;
+}
+.menu ul li a{
+    padding: 0 20px !important;
+}
+/* header */
+
+
+/* slider  */
+.slider{
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.s_text{
+    margin-top: 30px;
+}
+.s_text p{
+    margin-left: 0;
+    margin-bottom: 10px !important;
+    font-size: 20px;
+}
+.s_text h1{
+    margin-bottom: 35px !important;
+    font-size: 45px;
+}
+.c_ind{
+    bottom: -65px;
+}
+.c_ind [data-bs-target]{
+    margin-right: 15px;
+    width: 8px;
+    height: 8px;
+}
+/* slider */
+
+
+/* Sales start */
+.c_item{
+    padding: 24px 15px 30px;
+}
+ul li span{
+    font-weight: 400;
+}
+.list-inline-item:not(:last-child){
+    margin-right: 0;
+}
+/* Sales end */
+
+
+/*about start*/
+   .a_image{
+    padding-right: 20px;
+}
+ /* about end */
+
+
+/*testimony start*/
+.q_icon {
+    top: 16px;
+    left: 14px;
+ }
+.q_icon i {
+    font-size: 36px;
+}
+.tesc_h3 {
+    margin: 14px 0;
+}
+.tesc_p1 {
+    margin-top: 26px;
+}
+/* testimony end */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+/* header */
+header{
+    padding: 24px 135px;
+}
+.menu ul li a{
+    padding: 0 20px !important;
+}
+/* header */
+
+
+/* slider  */
+.slider{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.s_text{
+    margin-top: 30px;
+}
+.s_text p{
+    margin-left: 0;
+    margin-bottom: 10px !important;
+    font-size: 22px;
+}
+.s_text h1{
+    margin-bottom: 30px !important;
+    font-size: 50px;
+}
+.c_ind{
+    bottom: -70px;
+}
+.c_ind [data-bs-target]{
+    margin-right: 15px;
+    width: 8px;
+    height: 8px;
+}
+/* slider */
+
+
+/*about start*/
+.a_image{
+    padding-right: 20px;
+}
+/* about end */
+
+
+ /*testimony start*/
+ .q_icon {
+    top: 28px;
+    left: 22px;
+}
+.tes_content {
+    padding: 0 20px;
+}
+.tesc_p2 {
+    margin: 36px 0 0;
+}
+/* testimony end */
+}
+
+@media (min-width: 1400px) {
+
+/* feature start */
+.s_feature {
+    padding: 50px 0 30px;
+}
+/* feature end */
+
+
+/*about start*/
+.a_image{
+    padding-right: 20px;
+}
+/* about end */
+
+
+/*testimony start*/
+.q_icon {
+    top: 34px;
+    left: 28px;
+}
+.tes_content {
+    padding: 0 20px;
+}
+.tesc_p2 {
+    margin: 36px 0 0;
+}
+/* testimony end */ 
+    
+
+/* footer top start */
+.ft_details{
+    padding-right: 130px;
+}
+/* footer top end */
+}
